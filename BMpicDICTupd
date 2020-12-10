@@ -1,6 +1,6 @@
 { "title": "Burmese Picture Dictionary Update [v2.0.0]",
 "message": "Hello folks, I just updated added some new features in this app. So, Pls update.",
-"download": "https://zfontapp.blogspot.com/", 
+
 "playstore": "com.mgngoe.zfont",
 "uninstall": false, 
 "what": { "model": [], "version": [], "all": true }, 
