@@ -1,7 +1,7 @@
 { "title": "Burmese Picture Dictionary Update [v2.0.0]",
-"message": "Hello folks, I just updated added some new features in this app. So, Pls update.",
-
-"playstore": "com.mgngoe.zfont",
+"message": "Hello folks, I just updated added some new features in this app. So, Pls update.\n - added new \n added something new",
+"download": "https://zfontapp.blogspot.com/", 
+"playstore": "com.ahkter.rohingya_keyboard",
 "uninstall": false, 
 "what": { "model": [], "version": [], "all": true }, 
 "versionName": "2.5.0", "versionCode": 46, "force": true }
